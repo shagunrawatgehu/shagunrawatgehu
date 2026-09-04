@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Shagun 👋
 
-<!--
-**shagunrawatgehu/shagunrawatgehu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at Graphic Era University
+💻 Passionate about Software Development & Problem Solving
+🌱 Currently learning **Java, Python, DSA, DBMS & Operating Systems**
+🚀 Building projects and exploring new technologies
+📍 Uttarakhand, India
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** Java, Python, C
+* **Core:** DSA, DBMS, Operating Systems
+* **Tools:** Git, GitHub, VS Code
+
+### 🚀 What I'm Working On
+
+* 💡 College projects
+* 🧩 Data Structures & Algorithms
+* 🗄️ Database projects
+* 🌐 Exploring new technologies
+
+### 📫 Let's Connect
+
+Always open to learning, collaborating, and building something interesting!
