@@ -1,4 +1,4 @@
-# Hi there, I'm Shagun 👋
+ I'm Shagun 👋
 
 🎓 B.Tech CSE Student at Graphic Era University
 💻 Passionate about Software Development & Problem Solving
